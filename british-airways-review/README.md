@@ -7,7 +7,6 @@ This project analyzes British Airways reviews from different countries across th
 - [Datasets](#datasets)
   - [countries.csv](#countriescsv)
   - [ba_reviews.csv](#bareviewscsv)
- 
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 

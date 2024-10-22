@@ -7,6 +7,8 @@ This project analyzes British Airways reviews from different countries across th
 - [Datasets](#datasets)
   - [countries.csv](#countriescsv)
   - [ba_reviews.csv](#bareviewscsv)
+ 
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 
 ## Project Overview
@@ -42,6 +44,8 @@ This file contains detailed reviews of British Airways from different countries.
 | `value_for_money`       | Rating for value for money                     |
 | `entertainment`         | Rating for in-flight entertainment             |
 
+### Screenshots
+Screenshots of the analysis results are included in the screenshots directory.
 
 ## Usage
 1. **Clone the repository:**

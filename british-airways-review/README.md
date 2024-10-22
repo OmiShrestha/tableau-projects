@@ -41,5 +41,5 @@ This file contains reviews of British Airways from different countries.
 ## Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ba-reviews-analysis.git
+   git clone https://github.com/OmiShrestha/ba-reviews-analysis.git
    cd ba-reviews-analysis
